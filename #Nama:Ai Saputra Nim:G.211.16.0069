@@ -1,6 +1,8 @@
 Nama : Ai Saputra
 Nim : G.211.16.0069
 
+Hasil dari script 1.py
+
 Output =
 Let's talk about Zed A. Shaw.
 He's 74 inches tall.
@@ -17,3 +19,21 @@ If I add 35, 74, and 180 I get 289.
 5.)	Menampilkan kalimat yang variable berisikan my_eyes dan my_hair
 6.)	Menampilkan kalimat yang variable berisikan my_teeth
 7.)	Menampilkan kalimat yang variable berisikan my_age, my_height, my_weight dan variable total yang berisikan aritmatika (pertambahan) dari my_age + my_height + my_weight
+
+
+Hasil dari script 2.py
+
+Output =
+There are 10 types of people.
+Those who know binary and those who don't.
+I said: There are 10 types of people.
+I also said: 'Those who know binary and those who don't.'
+Isn't that joke so funny?! False
+This is the left side of...a string with a right side.
+
+1.)	 Menampilkan variable x yaitu kalimat yang berisikan variable types_of_people
+2.)	Menampilkan variable y yaitu kalimat yang berisikan variable binary dan variable do_not
+3.)	Menampilkan kalimat yang berisikan variable x
+4.)	Menampilkan kalimat yang berisikan variable y
+5.)	Menampilkan variable joke_evaluation dan variable hilarious
+6.)	Menampilkan variable w dan variable e
